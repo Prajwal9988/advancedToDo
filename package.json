@@ -1,0 +1,30 @@
+{
+  "name": "advancedtodo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node Backend/src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prajwal9988/advancedToDo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prajwal9988/advancedToDo/issues"
+  },
+  "homepage": "https://github.com/Prajwal9988/advancedToDo#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.18",
+    "@types/node": "^20.8.3",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  }
+}

@@ -1,0 +1,20 @@
+.main_div{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: rgb(99, 126, 150);;
+    height: 70vh;
+    overflow-x: scroll;
+    border-radius: 20px;
+    gap: 10px;
+}
+.timeBox{
+    background-color: rgb(154, 171, 187);
+    flex: 0 0 150px;
+    align-items: center;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
